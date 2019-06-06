@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "325078914040",
+    "firebase_url": "https://wolflog-6fea9.firebaseio.com",
+    "project_id": "wolflog-6fea9",
+    "storage_bucket": "wolflog-6fea9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325078914040:android:c29ae83691ad1e4f",
+        "android_client_info": {
+          "package_name": "com.example.wolflog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325078914040-s724mvm7e5gr9qhu5kh449upof402c4j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBjMrNfFE2mCg58pFU9GkbU8VZqBGL5cU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325078914040-s724mvm7e5gr9qhu5kh449upof402c4j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
